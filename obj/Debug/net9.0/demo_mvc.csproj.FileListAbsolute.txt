@@ -1,0 +1,8 @@
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.csproj.AssemblyReference.cache
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.AssemblyInfoInputs.cache
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.AssemblyInfo.cs
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.csproj.CoreCompileInputs.cache
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.MvcApplicationPartsAssemblyInfo.cache
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.RazorAssemblyInfo.cache
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.RazorAssemblyInfo.cs
