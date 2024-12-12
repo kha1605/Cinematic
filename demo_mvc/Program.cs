@@ -1,10 +1,13 @@
 ﻿using demo_mvc.Data;
+using demo_mvc.Data.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IActorsService, ActorService>();
 
 // Thêm DbContext vào DI container
 builder.Services.AddDbContext<AppDbContext>(options =>
