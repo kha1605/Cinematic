@@ -7,13 +7,18 @@ namespace demo_mvc.Models
         [Key]
         public int Id { get; set; }
 
-        [Display(Name="Profile picture URl")]
+        [Display(Name = "Profile picture URl")]
+        [Required(ErrorMessage ="Profilepicture pciture is required")]
         public string ProfilePictureURL { get; set; }
-        [Display(Name ="Full Namefile ")]
-        public string fullname {  get; set; }
+        [Display(Name = "Full Name ")]
+        [Required(ErrorMessage = "Fullname pciture is required")]
+        [StringLength (50, MinimumLength =3, ErrorMessage ="Full name must be between 3 and 50 chars")]
+        public string fullname { get; set; }
         [Display(Name = "Biography")]
-        public string bio {  get; set; }
+        [Required(ErrorMessage = "Biography is required")]
+
+        public string bio { get; set; }
         //Relationships
-        public List<Actor_Movie> Actors_Movie { get; set; }
+        public List<Actor_Movie>? Actors_Movie { get; set; }
     }
 }

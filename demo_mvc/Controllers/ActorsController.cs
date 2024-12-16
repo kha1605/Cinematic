@@ -17,23 +17,75 @@ namespace demo_mvc.Controllers
         public async Task<IActionResult> Index()
         {
             // Đảm bảo sử dụng await để lấy dữ liệu thực tế
-            var data = await _actorsService.GetAll();
+            var data = await _actorsService.GetAllAsync();
             return View(data); // Truyền model đúng kiểu vào View
         }
         public IActionResult Create()
         {
-            // Tạo một đối tượng Actor rỗng và truyền vào View
-            var actor = new Actor();
-            return View(actor);
+            return View();
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Create([Bind("fullname,ProfilePictureURL,bio")] Actor actor)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(actor);
+            }
+            await _actorsService.AddAsync(actor);
+            return RedirectToAction("Index");
+
         }
         public async Task<IActionResult> Details(int id)
         {
-            var actorDetails = _actorsService.GetById(id);
+            var actorDetails = await _actorsService.GetByIdAsync(id);
 
             if (actorDetails == null) return View("Empty");
             return View(actorDetails);
         }
+        public async Task<IActionResult> Edit(int id)
+        {
+            var actorDetails = await _actorsService.GetByIdAsync(id);
+
+            if (actorDetails == null) return View("NotFound"); // View lỗi
+            return View(actorDetails);
+        }
+
+
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, [Bind("Id,fullname,ProfilePictureURL,bio")] Actor actor)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(actor);
+            }
+            await _actorsService.UpdateAsync(id, actor);
+            return RedirectToAction(nameof(Index));
+
+        }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var actorDetails = await _actorsService.GetByIdAsync(id);
+
+            if (actorDetails == null) return View("NotFound"); // View lỗi nếu không tìm thấy actor
+            return View(actorDetails);  // Trả về view xác nhận xóa
+        }
+
+
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> Deleteconfirmed(int id)
+        {
+            var actorDetails = await _actorsService.GetByIdAsync(id);
+
+            if (actorDetails == null) return View("NotFound"); // View lỗi nếu không tìm thấy actor
+            await _actorsService.DeleteAsync(id); // Thực hiện xóa actor
+
+            return RedirectToAction(nameof(Index)); // Quay lại trang Index sau khi xóa thành công
+        }
 
     }
-
 }
