@@ -6,3 +6,4 @@ E:\demo_mvc\obj\Debug\net9.0\demo_mvc.csproj.CoreCompileInputs.cache
 E:\demo_mvc\obj\Debug\net9.0\demo_mvc.MvcApplicationPartsAssemblyInfo.cache
 E:\demo_mvc\obj\Debug\net9.0\demo_mvc.RazorAssemblyInfo.cache
 E:\demo_mvc\obj\Debug\net9.0\demo_mvc.RazorAssemblyInfo.cs
+E:\demo_mvc\obj\Debug\net9.0\demo_mvc.sourcelink.json
