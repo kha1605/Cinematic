@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "E:\\demo_mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\cinemas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\cinemas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\cinemas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\cinemas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\cinemas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\cinemas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\cinemas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\imoviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\service\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\service\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\cinemas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\viewmodels\\newmovievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|e:\\demo_mvc\\demo_mvc\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F57878-1551-478F-8818-EFCE78C12DCA}|demo_mvc\\demo_mvc.csproj|solutionrelative:demo_mvc\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,166 +74,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Cinemas\\Delete.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Delete.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Cinemas\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:57:12.597Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Details.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Cinemas\\Details.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Details.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Cinemas\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:53:57.954Z",
+              "DocumentIndex": 5,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\MovieService.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\MovieService.cs",
+              "RelativeToolTip": "demo_mvc\\Data\\Service\\MovieService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:58:32.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Cinemas\\Edit.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Edit.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Cinemas\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Program.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Program.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Program.cs",
+              "RelativeToolTip": "demo_mvc\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:16:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Producers\\Index.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Producers\\Index.cshtml*",
+              "RelativeToolTip": "demo_mvc\\Views\\Producers\\Index.cshtml*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:47:29.194Z",
+              "WhenOpened": "2024-12-19T09:54:57.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Index.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Cinemas\\Index.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Index.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Cinemas\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Index.cshtml*",
+              "RelativeToolTip": "demo_mvc\\Views\\Movies\\Index.cshtml*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:23:38.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Create.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Cinemas\\Create.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Cinemas\\Create.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Cinemas\\Create.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:19:09.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICinemaService.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\ICinemaService.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\ICinemaService.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\ICinemaService.cs",
-              "RelativeToolTip": "demo_mvc\\Data\\Service\\ICinemaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:12:27.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IActorsService.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\IActorsService.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\IActorsService.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\IActorsService.cs",
-              "RelativeToolTip": "demo_mvc\\Data\\Service\\IActorsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:12:01.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ActorService.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\ActorService.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\ActorService.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\ActorService.cs",
-              "RelativeToolTip": "demo_mvc\\Data\\Service\\ActorService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:11:47.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CInemaService.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\CInemaService.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\CInemaService.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\CInemaService.cs",
-              "RelativeToolTip": "demo_mvc\\Data\\Service\\CInemaService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:11:45.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CinemasController.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Controllers\\CinemasController.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Controllers\\CinemasController.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Controllers\\CinemasController.cs",
-              "RelativeToolTip": "demo_mvc\\Controllers\\CinemasController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwC0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:35:18.885Z",
+              "WhenOpened": "2024-12-19T09:16:28.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Models\\Movie.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Models\\Movie.cs",
+              "RelativeToolTip": "demo_mvc\\Models\\Movie.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:01:46.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewMovieVM.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Data\\ViewModels\\NewMovieVM.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\ViewModels\\NewMovieVM.cs",
+              "RelativeToolTip": "demo_mvc\\Data\\ViewModels\\NewMovieVM.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:08:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Actors\\Create.cshtml",
-              "RelativeDocumentMoniker": "demo_mvc\\Views\\Actors\\Create.cshtml",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Actors\\Create.cshtml",
-              "RelativeToolTip": "demo_mvc\\Views\\Actors\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "demo_mvc\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T09:19:14.808Z",
+              "WhenOpened": "2024-12-19T09:03:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Data\\Service\\IMoviesService.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Service\\IMoviesService.cs",
+              "RelativeToolTip": "demo_mvc\\Data\\Service\\IMoviesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:58:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Actors\\Index.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Actors\\Index.cshtml*",
+              "RelativeToolTip": "demo_mvc\\Views\\Actors\\Index.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:38:59.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "demo_mvc\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:02:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntityBaseRepository.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Data\\Base\\IEntityBaseRepository.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Base\\IEntityBaseRepository.cs",
+              "RelativeToolTip": "demo_mvc\\Data\\Base\\IEntityBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:55:51.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "demo_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:57:09.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Program.cs",
-              "RelativeDocumentMoniker": "demo_mvc\\Program.cs",
-              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Program.cs",
-              "RelativeToolTip": "demo_mvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "demo_mvc\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:18:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "demo_mvc\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "demo_mvc\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:17:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityBaseRepository.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Data\\Base\\EntityBaseRepository.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Data\\Base\\EntityBaseRepository.cs",
+              "RelativeToolTip": "demo_mvc\\Data\\Base\\EntityBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:45:47.776Z",
+              "WhenOpened": "2024-12-19T08:46:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "E:\\demo_mvc\\demo_mvc\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "demo_mvc\\Models\\Cinema.cs",
+              "ToolTip": "E:\\demo_mvc\\demo_mvc\\Models\\Cinema.cs",
+              "RelativeToolTip": "demo_mvc\\Models\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:47:35.469Z",
               "EditorCaption": ""
             }
           ]

@@ -8,6 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IActorsService, ActorService>();
+builder.Services.AddScoped<IProducersService, ProducersService>();
+builder.Services.AddScoped<IMoviesService, MoviesService>();
+
+builder.Services.AddAuthorization();
+
 
 // Thêm DbContext vào DI container
 builder.Services.AddDbContext<AppDbContext>(options =>

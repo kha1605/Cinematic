@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using demo_mvc.Data.Base;
 
 namespace demo_mvc.Models
 {
-    public class Actor
+    public class Actor :IEntityBase
     {
         [Key]
         public int Id { get; set; }

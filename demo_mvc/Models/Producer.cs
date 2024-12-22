@@ -1,8 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using demo_mvc.Data.Base;
 
 namespace demo_mvc.Models
 {
-    public class Producer
+    public class Producer:IEntityBase
     {
         [Key]
         public int Id { get; set; }

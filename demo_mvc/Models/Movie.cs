@@ -1,10 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using demo_mvc.Data;
+using demo_mvc.Data.Base;
 
 namespace demo_mvc.Models
 {
-    public class Movie
+    public class Movie :IEntityBase
     {
         [Key]
         public int Id { get; set; }

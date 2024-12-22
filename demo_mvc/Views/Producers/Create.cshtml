@@ -1,0 +1,59 @@
+﻿@model demo_mvc.Models.Producer
+
+@{
+    ViewData["Title"] = "Add a new producer";
+}
+
+<h1 class="text-center">Add a New Actor</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group text-center">
+                <img id="ProfilePicturePreview" class="border-info rounded-circle" style="max-width:150px" />
+            </div>
+            <!-- Profile Picture URL -->
+            <div class="form-group">
+                <label asp-for="ProfilePictureURL" class="control-label"></label>
+                <input asp-for="ProfilePictureURL" class="form-control" />
+                <span asp-validation-for="ProfilePictureURL" class="text-danger"></span>
+            </div>
+
+            <!-- Full Name -->
+            <div class="form-group">
+                <label asp-for="fullname" class="control-label"></label>
+                <input asp-for="fullname" class="form-control" />
+                <span asp-validation-for="fullname" class="text-danger"></span>
+            </div>
+
+            <!-- Bio -->
+            <div class="form-group">
+                <label asp-for="bio" class="control-label"></label>
+                <textarea asp-for="bio" class="form-control"></textarea>
+                <span asp-validation-for="bio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group text-right">
+                <input type="submit" value="Create" class="btn btn-outline-success" />
+                <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#ProfilePictureURL").val();  // Khởi tạo với giá trị hiện tại (nếu có)
+
+            $("#ProfilePictureURL").on("change", function() {
+                var output = document.getElementById('ProfilePicturePreview');
+                output.src = $(this).val();  // Cập nhật hình ảnh khi giá trị input thay đổi
+            });
+        });
+    </script>
+}
+
+
